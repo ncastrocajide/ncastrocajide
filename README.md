@@ -1,16 +1,14 @@
-## Hi there 👋
+### Nicolás Castro Cajide
 
-<!--
-**ncastrocajide/ncastrocajide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mechanical engineer focused on structural simulation and vehicle dynamics.
+Starting an MSc in Virtual Prototyping for Vehicle Structures at Cranfield (2026).
 
-Here are some ideas to get you started:
+**Focus**
+- Structural / CAE analysis and crashworthiness
+- Vehicle dynamics and telemetry
+- Python for engineering data
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This profile will host my technical work: telemetry analysis, lap simulation
+with real-data correlation, and structural notes.
+
+[LinkedIn](https://www.linkedin.com/in/nicolas-castro-cajide/)
